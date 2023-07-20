@@ -1,8 +1,8 @@
 # Hi there 👋
 
-![Built](http://ForTheBadge.com/images/badges/built-with-love.svg) 
+![Built](http://ForTheBadge.com/images/badges/built-with-love.svg)              
 
-![Followers](https://img.shields.io/github/followers/Tanya-1109.svg?style=social&label=Follow&maxAge=2592000)
+![Followers](https://img.shields.io/github/followers/Tanya-1109.svg?style=social&label=Follow&maxAge=2592000)               <img src="https://komarev.com/ghpvc/?username=Tanya-1109" alt="AV"/>
 
 
 - 🌱 I’m currently learning **Machine Learning, AI**
